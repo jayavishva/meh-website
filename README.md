@@ -191,5 +191,3 @@ This project is provided as-is for educational and commercial use.
 - Keep PHP and MySQL updated for security
 - Test file uploads work correctly on your server
 - Consider adding SSL certificate for production use
-
-- mehendhi accesories selling project
